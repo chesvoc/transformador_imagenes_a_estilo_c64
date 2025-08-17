@@ -41,4 +41,5 @@ Convierte imágenes a la **paleta de 16 colores del Commodore 64** (320×200), c
 - Para probar localmente: abre `index.html` en el navegador (doble clic).
 
 ## Licencia
-Indica aquí la licencia que prefieras (p. ej. MIT).
+- **Código**: [MIT](./LICENSE) — por favor conserva el aviso de copyright.  
+- **Contenido (README, capturas, textos, imágenes)**: [CC BY 4.0](./LICENSE-CC-BY-4.0.md) — atribución obligatoria a **David Llobet Sarria (chesvoc)**.
